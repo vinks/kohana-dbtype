@@ -1,0 +1,3 @@
+[submodule "vendor/dbtype"]
+	path = vendor/dbtype
+	url = git://github.com/DmitryKoterov/db_type.git
